@@ -1,0 +1,2 @@
+[{"post_id":1,"post_text":"Rizz","points":0,"votes":[0,0,0,0],"created_at":"2024-09-29T02:33:35.022675+00:00","won_at":null}, 
+ {"post_id":2,"post_text":"I have skididi rizz.","points":1,"votes":[1,0,0,0],"created_at":"2024-04-17T22:03:03.373026+00:00","won_at":null}]

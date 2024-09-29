@@ -1,0 +1,1 @@
+[{"player_name":"miimaker","total_points":1,"avatar_url":"https://cdn.discordapp.com/embed/avatars/0.png"}]
